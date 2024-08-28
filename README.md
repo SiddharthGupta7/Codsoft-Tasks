@@ -13,6 +13,7 @@ Features:
 Random number generation.
 User input handling.
 Feedback mechanism for user guesses.
+
 Task 2: Student Grade Calculator
 This task involved creating a student grade calculator that computes the final grade based on a series of scores input by the user. The program applies predefined weightings to the scores and outputs the corresponding letter grade.
 
@@ -20,6 +21,7 @@ Features:
 User input handling.
 Calculation of weighted averages.
 Grade determination based on standard grading scales.
+
 Task 3: Functional ATM Interface
 The final task was to develop a basic functional ATM interface. This program simulates basic banking operations such as checking account balance, making deposits, and withdrawing funds.
 
